@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+div{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+.header ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+    overflow: hidden;
+    text-align: center;
+    color: white;
+}
+.header li{
+    float: left;
+    text-align: center;
+    color:white;
+}
+.header li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 70px;
+    border: 2px solid black;
+    border-color:grey;
+}
+.header li a:hover{
+    background-color: #343232;
+}

@@ -1,0 +1,41 @@
+h1{
+    font-style: normal;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 56px;
+    
+}
+.container {
+    background-color:#c1bbbb;
+    position:relative;
+    border:4px solid black;
+    border-radius:20px;
+}
+#img1{
+    float: left;
+    padding-right: 10px;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    text-decoration:solid;
+    padding:10px;
+    text-align: left;
+    word-spacing: 4px;
+}
+
+.news-item{
+    border: 3px solid black;
+    padding: 8px;;
+    border-radius: 20px;
+}
+.right{
+    border: 2px solid black;
+    height: 323px;
+}
+.left{
+    border: 2px solid black;
+}   
+body{
+    background-color: aliceblue;
+}
