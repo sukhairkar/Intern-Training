@@ -29,7 +29,7 @@ hello("Sukant",bye,welcome)
 function delay(){
     return new Promise(resolve => setTimeout(() => {
         resolve("Delay completed!");
-    }, 500));
+    }, 3500));
 }
 
 async function run(){
